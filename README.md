@@ -1,4 +1,4 @@
-# Migros Online - Courier Tracking Service
+# Migros ONE - Courier Tracking Service
 
 A production-ready, highly concurrent RESTful courier geolocation tracking and store proximity logging microservice built with **Java 17** and **Spring Boot 3.3.2**.
 
